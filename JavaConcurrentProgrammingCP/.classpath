@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_161"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/resound/Eclipse/workspace/JavaConcurrentProgrammingCP/lib/disruptor-3.4.1.jar"/>
+	<classpathentry kind="lib" path="/home/resound/Eclipse/workspace/JavaConcurrentProgrammingCP/lib/ujmp-complete-0.3.0 .jar"/>
+	<classpathentry kind="lib" path="/home/resound/Eclipse/workspace/JavaConcurrentProgrammingCP/lib/akka-actor_2.11-2.5.11.jar"/>
+	<classpathentry kind="lib" path="/home/resound/Eclipse/workspace/JavaConcurrentProgrammingCP/lib/scala-library-2.13.0-M3.jar"/>
+	<classpathentry kind="lib" path="/home/resound/Eclipse/workspace/JavaConcurrentProgrammingCP/lib/protobuf-java-3.5.1.jar"/>
+	<classpathentry kind="lib" path="/home/resound/Eclipse/workspace/JavaConcurrentProgrammingCP/lib/akka-remote_2.11-2.5.11.jar"/>
+	<classpathentry kind="lib" path="/home/resound/Eclipse/workspace/JavaConcurrentProgrammingCP/lib/akka-testkit_2.13.0-M3-2.5.11.jar"/>
+	<classpathentry kind="lib" path="/home/resound/Eclipse/workspace/JavaConcurrentProgrammingCP/lib/akka-slf4j_2.11-2.5.11.jar"/>
+	<classpathentry kind="lib" path="/home/resound/Eclipse/workspace/JavaConcurrentProgrammingCP/lib/config-1.3.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
